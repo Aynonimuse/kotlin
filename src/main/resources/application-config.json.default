@@ -1,0 +1,8 @@
+{
+  "HTTP_PORT": <port>,
+  "MONGODB_HOST": "<host_name>"
+  "MONGODB_PORT": 27017,
+  "MONGODB_DATABASE": "<db_name>",
+  "IMAGE_LOCATION": "/var/image/",
+  "BASE_URL" : "http://<host_name>:<port>/"
+}
